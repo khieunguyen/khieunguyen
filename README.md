@@ -11,8 +11,7 @@
 📫 Don't hesitate to connect/contact me for collaboration or discussion.
 
 ---
-#Visitors: ![ <img src="https://www.freevisitorcounters.com/en/counter/render/994129/t/9" border="0" class="counterimg">](https://www.freevisitorcounters.com/en/counter/render/994123/t/9)
-
+![#Visitors](https://visitor-badge.glitch.me/badge?page_id=khieunguyen.visitor&left_color=red&right_color=green&left_text=Visitors) 
 
 <!---
 khieunguyen/khieunguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
