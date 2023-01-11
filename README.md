@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @khieunguyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @khieunguyen
+
+
+✨ Motivated data scientist with 3+ years of experience using NLP deep learning models, data processing algorithms to solve challenging business problems:
+- Extracting standardized skills from a free text in real-time. 
+- Matching HR object vs pool of HR objects. There are many applications from recruitments to learnings, for example find the top N of canadidate best match for a given Job posting; matching learner profile with learning content... The algorithm can provide results in nearly real-time scale.
+
+Technologies: Python, Flask, GCP, Kubernetes + GPU, Compute Engine + GPU, AWS
+
+🌱 Other experiences:
+5+ years experience as an academic researcher:
+- Numerical methods (finite volume & finite difference methods)
+- GPU programming (CUDA, OpenACC)
+- Monte Carlo simulation of diffusion-weighted NMR/MRI signal
+- Compressed Sensing in MRI
+- MRI sequence programming
+- MRI data acquisition (Bruker system)
+
+
+📫 Don't hesitate to connect/contact me for collaboration or discussion.
+
+---
+#Visitors: ![ <img alt="Number of visitor" src="https://www.freevisitorcounters.com/en/counter/render/994123/t/9" border="0" class="counterimg">](https://www.freevisitorcounters.com/en/counter/render/994123/t/9)
+
 
 <!---
 khieunguyen/khieunguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
