@@ -8,19 +8,13 @@
 Technologies: Python, Flask, GCP, Kubernetes + GPU, Compute Engine + GPU, AWS
 
 🌱 Other experiences:
-5+ years experience as an academic researcher:
-- Numerical methods (finite volume & finite difference methods)
-- GPU programming (CUDA, OpenACC)
-- Monte Carlo simulation of diffusion-weighted NMR/MRI signal
-- Compressed Sensing in MRI
-- MRI sequence programming
-- MRI data acquisition (Bruker system)
+5+ years experience as an academic researcher in numerical methods and MRI sequence programming/MRI data acquisition (Bruker system)
 
 
 📫 Don't hesitate to connect/contact me for collaboration or discussion.
 
 ---
-#Visitors: ![ <img alt="Number of visitor" src="https://www.freevisitorcounters.com/en/counter/render/994123/t/9" border="0" class="counterimg">](https://www.freevisitorcounters.com/en/counter/render/994123/t/9)
+#Visitors: ![ <img src="https://www.freevisitorcounters.com/en/home/counter/994129/t/9"></img>](https://www.freevisitorcounters.com/en/counter/render/994123/t/9)
 
 
 <!---
